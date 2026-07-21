@@ -111,7 +111,7 @@ Additional charts (`04_top10_directors.png`, `06_release_year_distribution.png`,
 </tr>
 <tr>
 <td><img src="13_heatmap.png" width="420"/></td>
-<td><img src="15_movies_vs_tv_year.png" width="420"/></td>
+<td><img src="15_movies_tv_year.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Correlation Heatmap</b></td>
