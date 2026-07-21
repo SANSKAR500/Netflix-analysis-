@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project on the Netflix titles dataset — covering **data cleaning**, **exploratory data analysis (Python)**, **SQL business analysis**, and an interactive **Power BI dashboard**.
 
-![Movies vs TV Shows](images/01_movies_vs_tvshows.png)
+![Movies vs TV Shows](01_movies_vs_tvshows.png)
 
 ---
 
@@ -67,24 +67,24 @@ Key visualizations generated in `eda.ipynb`:
 
 <table>
 <tr>
-<td><img src="images/02_content_added_per_year.png" width="420"/></td>
-<td><img src="images/03_top10_countries.png" width="420"/></td>
+<td><img src="02_added_per_year.png" width="420"/></td>
+<td><img src="03_top_countries.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Content Added Per Year</b></td>
 <td align="center"><b>Top 10 Content-Producing Countries</b></td>
 </tr>
 <tr>
-<td><img src="images/05_ratings_distribution.png" width="420"/></td>
-<td><img src="images/07_top_genres.png" width="420"/></td>
+<td><img src="05_ratings.png" width="420"/></td>
+<td><img src="07_genres.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Ratings Distribution</b></td>
 <td align="center"><b>Top Genres</b></td>
 </tr>
 <tr>
-<td><img src="images/08_movie_duration_distribution.png" width="420"/></td>
-<td><img src="images/10_monthly_content_additions.png" width="420"/></td>
+<td><img src="08_movie_duration.png" width="420"/></td>
+<td><img src="10_monthly_added.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Movie Duration Distribution</b></td>
@@ -102,16 +102,16 @@ Additional charts (`04_top10_directors.png`, `06_release_year_distribution.png`,
 
 <table>
 <tr>
-<td><img src="images/11_genre_wordcloud.png" width="420"/></td>
-<td><img src="images/14_netflix_growth_trend.png" width="420"/></td>
+<td><img src="11_genre_wordcloud.png" width="420"/></td>
+<td><img src="14_growth_trend.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Genre Word Cloud</b></td>
 <td align="center"><b>Netflix Catalog Growth Over Years</b></td>
 </tr>
 <tr>
-<td><img src="images/13_correlation_heatmap.png" width="420"/></td>
-<td><img src="images/15_movies_vs_tvshows_added_yearly.png" width="420"/></td>
+<td><img src="13_heatmap.png" width="420"/></td>
+<td><img src="15_movies_vs_tv_year.png" width="420"/></td>
 </tr>
 <tr>
 <td align="center"><b>Correlation Heatmap</b></td>
