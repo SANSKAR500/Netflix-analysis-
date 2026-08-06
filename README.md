@@ -1,4 +1,6 @@
 # 🎬 Netflix Data Analysis Project
+live app just paste the csv file and get the report
+https://netflixanalysi.streamlit.app/
 
 An end-to-end data analytics project on the Netflix titles dataset — covering **data cleaning**, **exploratory data analysis (Python)**, **SQL business analysis**, and an interactive **Power BI dashboard**.
 
